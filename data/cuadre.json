@@ -1,0 +1,376 @@
+{
+  "fecha_ejecucion": "2026-07-27T23:29:52",
+  "archivo": "Cuadre_010925-020126.xlsx",
+  "hojas": {
+    "Tasca": {
+      "total": 954,
+      "ok": 830,
+      "revisar": 124,
+      "pct_ok": 87.0
+    },
+    "Comestibles": {
+      "total": 524,
+      "ok": 458,
+      "revisar": 66,
+      "pct_ok": 87.4
+    }
+  },
+  "total": {
+    "total": 1478,
+    "ok": 1288,
+    "revisar": 190,
+    "pct_ok": 87.1
+  },
+  "revisar_detalle": [
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 AQUARIUS AUYANTEPUY 0-MADRID",
+      "importe": -9.0,
+      "detalle": "¿#451 BM- DISTRIBUCION SUPERMERCADOS SL? (fuzzy 27%)"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 MI ALCAMPO RIBERA DE CURT-MADRID",
+      "importe": -4.35,
+      "detalle": "Importe 4.35 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 RESTAURANTE-PIZZERIA-MADRID",
+      "importe": -7.0,
+      "detalle": "¿#2180 VICTORINO MARTIN SA? (fuzzy 30%)"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 VICTORINO MARTIN S.A-MADRID",
+      "importe": -7.5,
+      "detalle": "Importe 7.5 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "TRIBUTOS 289966 - MOD. 2",
+      "importe": -172.25,
+      "detalle": "Sin clasificador"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A QUESOS SILVA CORDERO",
+      "importe": -104.31,
+      "detalle": "Importe 104.31 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1015 DIA 13908-MADRID",
+      "importe": -11.57,
+      "detalle": "Importe 11.57 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1015 BM DUQUE DE ALBA-MADRID",
+      "importe": -19.77,
+      "detalle": "Sin facturas en ventana de fecha para 15/09/2025"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1015 DIA 13908-MADRID",
+      "importe": -2.97,
+      "detalle": "Sin facturas en ventana de fecha para 15/09/2025"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1015 DIA 13908-MADRID",
+      "importe": -14.44,
+      "detalle": "Importe 14.44 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A GD EUROPA SL",
+      "importe": -314.9,
+      "detalle": "Sin facturas en ventana de fecha para 18/09/2025"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 OPENAI *CHATGPT SUBSCR-SAN FRANCISCO",
+      "importe": -17.02,
+      "detalle": "Sin factura de OPENAI LLC para 09/2025"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 DIA 13908-MADRID",
+      "importe": -16.6,
+      "detalle": "¿#4002 TIRSO PAPEL Y BOLSAS SL? (fuzzy 40%)"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1015 DIA 13908-MADRID",
+      "importe": -22.43,
+      "detalle": "Importe 22.43 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 DIA 13908-MADRID",
+      "importe": -7.62,
+      "detalle": "Sin facturas en ventana de fecha para 22/09/2025"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A BODEGAS MUNOZ MARTIN",
+      "importe": -135.83,
+      "detalle": "Sin facturas en ventana de fecha para 22/09/2025"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1015 DIA 13908-MADRID",
+      "importe": -11.37,
+      "detalle": "Importe 11.37 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A SOCIEDAD COOP LA CARANTONA",
+      "importe": -63.06,
+      "detalle": "Importe 63.06 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A GRUPO TERRITORIO CAMPERO",
+      "importe": -5.94,
+      "detalle": "¿#4228 ECOMS SUPERMARKET SL? (fuzzy 44%)"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 DIA 13908-MADRID",
+      "importe": -6.26,
+      "detalle": "Importe 6.26 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 DIA 13908-MADRID",
+      "importe": -8.08,
+      "detalle": "¿#4237 EUROSENDER SARL? (fuzzy 40%)"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 DIA 13908-MADRID",
+      "importe": -7.47,
+      "detalle": "¿#2187 BM- DISTRIBUCION SUPERMERCADOS SL? (fuzzy 43%)"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 LEVADURA MADRE EMBAJADORE-MADRID",
+      "importe": -5.9,
+      "detalle": "Importe 5.9 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 COMESTIBLES BAREA-MADRID",
+      "importe": -3.0,
+      "detalle": "Importe 3.0 no encontrado"
+    },
+    {
+      "hoja": "Tasca",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX1019 LIBRERIA LA PUERTA DE TAN-PLASENCIA",
+      "importe": -30.0,
+      "detalle": "¿#3040 UNIVERSO FIESTA SL? (fuzzy 35%)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -11.02,
+      "detalle": "Importe 11.02 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 LA CUCHARA DE LAVAPIES-MADRID",
+      "importe": -21.0,
+      "detalle": "Importe 21.0 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -2.97,
+      "detalle": "Sin facturas en ventana de fecha para 05/09/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -10.41,
+      "detalle": "¿#2264 JIMELUZ EMPRENDEDORES SL? (fuzzy 37%)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -8.39,
+      "detalle": "¿#4264 BM- DISTRIBUCION SUPERMERCADOS SL? (fuzzy 43%)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 MANSILLA CAF -VIRGEN DE LA",
+      "importe": -6.0,
+      "detalle": "¿#401 BM- DISTRIBUCION SUPERMERCADOS SL? (fuzzy 24%)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -1.98,
+      "detalle": "Sin facturas en ventana de fecha para 08/09/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 BM DUQUE DE ALBA-MADRID",
+      "importe": -17.36,
+      "detalle": "Sin facturas en ventana de fecha para 10/09/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 LA BARRA DULCE-MADRID",
+      "importe": -19.45,
+      "detalle": "Sin facturas en ventana de fecha para 12/09/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -6.09,
+      "detalle": "Sin facturas en ventana de fecha para 15/09/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A EMBUTIDOS ALPENDEREZ",
+      "importe": -67.29,
+      "detalle": "Importe 67.29 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A APOZA",
+      "importe": -82.03,
+      "detalle": "¿#2144 APOZA DISTRIBUCIONES? (fuzzy 40%)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -1.98,
+      "detalle": "Sin facturas en ventana de fecha para 19/09/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A CARDENAS",
+      "importe": -907.5,
+      "detalle": "¿#3104 CONSTRUCCION G CARDENAS E HIJOS SL? (fuzzy 40%)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A ANA BELÉN FRAGA",
+      "importe": -50.0,
+      "detalle": "¿#4278 AMAZON BUSINESS EU SARL? (fuzzy 44%)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A ISABEL MINDALLAS PINDADO",
+      "importe": -285.0,
+      "detalle": "Importe 285.0 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 FUNDACION PATRIMONIO-MADRID",
+      "importe": -10.0,
+      "detalle": "¿#4197 ECOMS SUPERMARKET SL? (fuzzy 32%)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A QUESOS SILVA CORDERO",
+      "importe": -380.49,
+      "detalle": "Sin facturas en ventana de fecha para 07/10/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 PANIFIESTO LAVAPIES-MADRID",
+      "importe": -6.15,
+      "detalle": "PANIFIESTO LAVAPIES SL - sin factura para 10/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A FISH FACTORY",
+      "importe": -375.54,
+      "detalle": "Importe 375.54 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A PANRUJE",
+      "importe": -46.28,
+      "detalle": "Importe 46.28 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -4.23,
+      "detalle": "Importe 4.23 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -8.88,
+      "detalle": "Importe 8.88 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -1.98,
+      "detalle": "Sin facturas en ventana de fecha para 20/10/2025"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 PANIFIESTO LAVAPIES-MADRID",
+      "importe": -8.2,
+      "detalle": "PANIFIESTO LAVAPIES SL - sin factura para 10/2025"
+    }
+  ]
+}

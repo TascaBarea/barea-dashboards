@@ -1,0 +1,26 @@
+{
+  "fecha_ejecucion": "2026-08-03T13:07:00",
+  "total_procesados": 21,
+  "exitosos": 17,
+  "requieren_revision": 2,
+  "errores": 0,
+  "proveedores_ok": [
+    "CERES CERVEZA SL",
+    "COMPAÑÍA VINÍCOLA DEL NORTE DE ESPAÑA S.A.",
+    "DE LUIS SABORES UNICOS SL",
+    "GRUPO DIA",
+    "GUERRA OLLER FRANCISCO",
+    "INDUSTRIAS CARNICAS MRM",
+    "LICORES MADRUEÑO SL",
+    "MIGUEZ CAL SL",
+    "PANIFIESTO LAVAPIES SL",
+    "RODRIGUEZ PACHA ISAAC",
+    "SEGURMA S.A.",
+    "XFERA MOVILES SAU"
+  ],
+  "revision": [
+    "Calle Alonso Heredia, 25 L20",
+    "Panadario <administracion@panadario.es>"
+  ],
+  "errores_detalle": []
+}
