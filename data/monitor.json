@@ -1,15 +1,15 @@
 {
   "procesos": {
     "gmail": {
-      "ultima_ejecucion": "2026-08-03",
-      "log": "2026-08-03.log"
+      "ultima_ejecucion": "2026-09-04",
+      "log": "2026-09-04.log"
     },
     "ventas": {
-      "ultima_ejecucion": "2026-08-31",
-      "log": "auto_2026-08-31.log"
+      "ultima_ejecucion": "2026-09-07",
+      "log": "auto_2026-09-07.log"
     },
     "cuadre": {
-      "ultima_ejecucion": "2026-07-27T23:29:52"
+      "ultima_ejecucion": "2026-09-04T23:08:44"
     }
   }
 }
