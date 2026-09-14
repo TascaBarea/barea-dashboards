@@ -1,12 +1,31 @@
 {
-  "fecha_ejecucion": "2026-09-06T22:54:00",
-  "total_procesados": 6,
-  "exitosos": 6,
-  "requieren_revision": 0,
-  "errores": 0,
+  "fecha_ejecucion": "2026-09-11T10:32:21",
+  "total_procesados": 22,
+  "exitosos": 14,
+  "requieren_revision": 6,
+  "errores": 5,
   "proveedores_ok": [
-    "GRUPO DIA"
+    "AGRICOLA DE MONTBRIO DEL CAMP SCCL",
+    "CERES CERVEZA SL",
+    "GRUPO DIA",
+    "LIDL SUPERMERCADOS SAU",
+    "MOLLETES ARTESANOS DE ANTEQUERA SL",
+    "QUESOS NAVAS SL",
+    "SABORES DE PATERNA SCA"
   ],
-  "revision": [],
-  "errores_detalle": []
+  "revision": [
+    "11160 Barbate (Cádiz)",
+    "<jmcardoso@productosdealmadraba.com>",
+    "COOPERATIVA DEL VINO DE YECLA LA PURISIMA SCL",
+    "ECOFICUS SL",
+    "ORTEGA ALONSO BENJAMIN",
+    "R.M. de Madrid ­ T 36613 RODAS N2 RODAS N2 RODAS N2"
+  ],
+  "errores_detalle": [
+    "FACTURA LIDIA NOVA: total no extraído (ALERTA ROJA)",
+    "Pedido ECOFICUS: total no extraído (ALERTA ROJA)",
+    "RE: Solicitud de factura 04-08-26 TASCA BAREA SLL CODIGO : CLI145522: total no extraído (ALERTA ROJA)",
+    "Productos de Almadraba: total no extraído (ALERTA ROJA)",
+    "RV: PEDIDO SOLICITADO 31-8-26: total no extraído (ALERTA ROJA)"
+  ]
 }

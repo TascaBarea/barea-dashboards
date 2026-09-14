@@ -1,25 +1,25 @@
 {
-  "fecha_ejecucion": "2026-09-04T23:08:44",
+  "fecha_ejecucion": "2026-09-13T18:33:24",
   "archivo": "Cuadre_010925-020126.xlsx",
   "hojas": {
     "Tasca": {
       "total": 954,
-      "ok": 830,
-      "revisar": 124,
-      "pct_ok": 87.0
+      "ok": 845,
+      "revisar": 109,
+      "pct_ok": 88.6
     },
     "Comestibles": {
       "total": 524,
-      "ok": 458,
-      "revisar": 66,
-      "pct_ok": 87.4
+      "ok": 466,
+      "revisar": 58,
+      "pct_ok": 88.9
     }
   },
   "total": {
     "total": 1478,
-    "ok": 1288,
-    "revisar": 190,
-    "pct_ok": 87.1
+    "ok": 1311,
+    "revisar": 167,
+    "pct_ok": 88.7
   },
   "revisar_detalle": [
     {
@@ -242,13 +242,6 @@
     {
       "hoja": "Comestibles",
       "fecha": "",
-      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
-      "importe": -1.98,
-      "detalle": "Sin facturas en ventana de fecha para 08/09/2025"
-    },
-    {
-      "hoja": "Comestibles",
-      "fecha": "",
       "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 BM DUQUE DE ALBA-MADRID",
       "importe": -17.36,
       "detalle": "Sin facturas en ventana de fecha para 10/09/2025"
@@ -279,21 +272,14 @@
       "fecha": "",
       "concepto": "TRANSFERENCIA A APOZA",
       "importe": -82.03,
-      "detalle": "¿#2144 APOZA DISTRIBUCIONES? (fuzzy 40%)"
+      "detalle": "Sin facturas en ventana de fecha para 16/09/2025"
     },
     {
       "hoja": "Comestibles",
       "fecha": "",
       "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
       "importe": -1.98,
-      "detalle": "Sin facturas en ventana de fecha para 19/09/2025"
-    },
-    {
-      "hoja": "Comestibles",
-      "fecha": "",
-      "concepto": "TRANSFERENCIA A CARDENAS",
-      "importe": -907.5,
-      "detalle": "¿#3104 CONSTRUCCION G CARDENAS E HIJOS SL? (fuzzy 40%)"
+      "detalle": "Posible duplicado con #2232"
     },
     {
       "hoja": "Comestibles",
@@ -315,20 +301,6 @@
       "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 FUNDACION PATRIMONIO-MADRID",
       "importe": -10.0,
       "detalle": "¿#4197 ECOMS SUPERMARKET SL? (fuzzy 32%)"
-    },
-    {
-      "hoja": "Comestibles",
-      "fecha": "",
-      "concepto": "TRANSFERENCIA A QUESOS SILVA CORDERO",
-      "importe": -380.49,
-      "detalle": "Sin facturas en ventana de fecha para 07/10/2025"
-    },
-    {
-      "hoja": "Comestibles",
-      "fecha": "",
-      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 PANIFIESTO LAVAPIES-MADRID",
-      "importe": -6.15,
-      "detalle": "PANIFIESTO LAVAPIES SL - sin factura para 10/2025"
     },
     {
       "hoja": "Comestibles",
@@ -363,14 +335,42 @@
       "fecha": "",
       "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
       "importe": -1.98,
-      "detalle": "Sin facturas en ventana de fecha para 20/10/2025"
+      "detalle": "Posible duplicado con #2232"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -9.82,
+      "detalle": "Importe 9.82 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 MARISCOS O CASTELLANO-MADRID",
+      "importe": -20.4,
+      "detalle": "Importe 20.4 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "TRANSFERENCIA A ISABEL MINDALLAS PINDADO",
+      "importe": -285.0,
+      "detalle": "Importe 285.0 no encontrado"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 DIA 13908-MADRID",
+      "importe": -9.02,
+      "detalle": "Importe 9.02 no encontrado"
     },
     {
       "hoja": "Comestibles",
       "fecha": "",
       "concepto": "COMPRA TARJ. 5540XXXXXXXX8017 PANIFIESTO LAVAPIES-MADRID",
-      "importe": -8.2,
-      "detalle": "PANIFIESTO LAVAPIES SL - sin factura para 10/2025"
+      "importe": -11.4,
+      "detalle": "Caso especial: PANIFIESTO"
     }
   ]
 }
