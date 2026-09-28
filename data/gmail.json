@@ -1,15 +1,30 @@
 {
-  "fecha_ejecucion": "2026-09-19T23:07:33",
-  "total_procesados": 5,
-  "exitosos": 5,
-  "requieren_revision": 0,
-  "errores": 0,
+  "fecha_ejecucion": "2026-09-25T10:54:39",
+  "total_procesados": 22,
+  "exitosos": 16,
+  "requieren_revision": 5,
+  "errores": 4,
   "proveedores_ok": [
+    "ANTHROPIC",
+    "BLANCO GUTIERREZ PILAR",
     "CAFE DROMEDARIO",
+    "CERES CERVEZA SL",
     "GRUPO DIA",
+    "MARTIN ABENZA",
     "PAGOS ALTOS DE ACERED, SL",
+    "WEBEMPRESA EUROPA SL",
     "ZUBELZU PIPARRAK S.L."
   ],
-  "revision": [],
-  "errores_detalle": []
+  "revision": [
+    "<info@vegaucero.com>",
+    "GARDA IMPORT SLU",
+    "JAIME FERNANDEZ MORENO",
+    "LA LLILDIRIA SL"
+  ],
+  "errores_detalle": [
+    "La Lleldiría | Adjuntamos factura LL2026-00357.: total no extraído (ALERTA ROJA)",
+    "INFORMACION - MARKET TORREZNO DE SORIA - MARCA DE GARANTIA: total no extraído (ALERTA ROJA)",
+    "Factura atrasada Jimeluz: total no extraído (ALERTA ROJA)",
+    "Factura pagada Carrefour: total no extraído (ALERTA ROJA)"
+  ]
 }
