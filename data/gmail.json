@@ -1,42 +1,31 @@
 {
-  "fecha_ejecucion": "2026-10-02T11:00:56",
-  "total_procesados": 39,
-  "exitosos": 32,
-  "requieren_revision": 6,
-  "errores": 4,
+  "fecha_ejecucion": "2026-10-09T10:12:59",
+  "total_procesados": 36,
+  "exitosos": 31,
+  "requieren_revision": 4,
+  "errores": 3,
   "proveedores_ok": [
     "CERES CERVEZA SL",
-    "COMPAÑÍA VINÍCOLA DEL NORTE DE ESPAÑA S.A.",
-    "DE LUIS SABORES UNICOS SL",
-    "DEBORA GARCIA TOLEDANO",
-    "DISTRIBUCIONES LAVAPIES S.COOP.MAD.",
-    "FABEIRO SL",
+    "COOPERATIVA DEL VINO DE YECLA LA PURISIMA SCL",
+    "GARDA IMPORT SLU",
+    "GARUA INTERVENCION EDUCATIVA S.COOP.MAD",
     "GRUPO DIA",
-    "INDUSTRIAS CARNICAS MRM",
-    "JAMONES Y EMBUTIDOS BERNAL SLU",
-    "JULIO GARCIA VIVAS",
-    "KINEMA S.COOP.MAD.",
-    "LICORES MADRUEÑO SL",
-    "MIGUEZ CAL SL",
-    "PANIFIESTO LAVAPIES SL",
-    "PIFEMA SL",
-    "SABORES DE PATERNA SCA",
-    "SERRIN NO CHAN SL",
-    "SOM ENERGIA SCCL",
-    "WEBEMPRESA EUROPA SL"
+    "GRUPO TERRITORIO CAMPERO, S.L.",
+    "LA BARRA DULCE SL",
+    "PRODUCTOS MANIPULADOS ABELLAN SL",
+    "QUESOS DE CATI COOP. V",
+    "QUESOS NAVAS SL",
+    "SEGURMA S.A.",
+    "XFERA MOVILES SAU"
   ],
   "revision": [
-    "Baba, Calle Del Conde De Romanones 5",
+    "ANGEL BORJA",
     "Conservas Rezumar <conservas@rezumar.com>",
-    "GUERRA OLLER FRANCISCO",
-    "LICORES MADRUEÑO SL",
-    "MERCADO SOCIAL DE MADRID SDAD COOP",
-    "PAGOS ALTOS DE ACERED, SL"
+    "KINEMA S.COOP.MAD."
   ],
   "errores_detalle": [
-    "FACTURA SEPTIEMBRE: total no extraído (ALERTA ROJA)",
-    "Factura Baba: total no extraído (ALERTA ROJA)",
-    "Conservas REZUMAR: total no extraído (ALERTA ROJA)",
-    "Factura cuota socia MES 1-2: total no extraído (ALERTA ROJA)"
+    "RE: Conservas REZUMAR / PEDIDO para Tasca BArea SLL: total no extraído (ALERTA ROJA)",
+    "PIMENTON DE LA VEA DOP LAS HERMANAS: total no extraído (ALERTA ROJA)",
+    "Re: Libro de Facturas y Mayor: total no extraído (ALERTA ROJA)"
   ]
 }
