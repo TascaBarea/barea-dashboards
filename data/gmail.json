@@ -1,31 +1,23 @@
 {
-  "fecha_ejecucion": "2026-10-09T10:12:59",
-  "total_procesados": 36,
-  "exitosos": 31,
-  "requieren_revision": 4,
-  "errores": 3,
+  "fecha_ejecucion": "2026-10-17T00:03:14",
+  "total_procesados": 2,
+  "exitosos": 1,
+  "requieren_revision": 1,
+  "errores": 0,
   "proveedores_ok": [
-    "CERES CERVEZA SL",
-    "COOPERATIVA DEL VINO DE YECLA LA PURISIMA SCL",
-    "GARDA IMPORT SLU",
-    "GARUA INTERVENCION EDUCATIVA S.COOP.MAD",
-    "GRUPO DIA",
-    "GRUPO TERRITORIO CAMPERO, S.L.",
-    "LA BARRA DULCE SL",
-    "PRODUCTOS MANIPULADOS ABELLAN SL",
-    "QUESOS DE CATI COOP. V",
-    "QUESOS NAVAS SL",
-    "SEGURMA S.A.",
-    "XFERA MOVILES SAU"
+    "MARTINEZ RODRIGUEZ MARIA LINAREJOS"
   ],
   "revision": [
-    "ANGEL BORJA",
-    "Conservas Rezumar <conservas@rezumar.com>",
-    "KINEMA S.COOP.MAD."
+    "Seguros PcComponentes <pcc@weecover.com>"
   ],
-  "errores_detalle": [
-    "RE: Conservas REZUMAR / PEDIDO para Tasca BArea SLL: total no extraído (ALERTA ROJA)",
-    "PIMENTON DE LA VEA DOP LAS HERMANAS: total no extraído (ALERTA ROJA)",
-    "Re: Libro de Facturas y Mayor: total no extraído (ALERTA ROJA)"
-  ]
+  "errores_detalle": [],
+  "enviados_a_revisar": {
+    "total": 1,
+    "NO_FACTURA": 1,
+    "FECHA_FUERA_DE_RANGO": 0,
+    "PROVEEDOR_INVALIDO": 0
+  },
+  "albaranes": 0,
+  "proformas": 0,
+  "proveedores_nuevos": []
 }

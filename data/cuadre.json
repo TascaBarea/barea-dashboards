@@ -1,25 +1,25 @@
 {
-  "fecha_ejecucion": "2026-10-03T18:54:16",
-  "archivo": "Cuadre_020126-021026.xlsx",
+  "fecha_ejecucion": "2026-10-16T11:50:21",
+  "archivo": "Cuadre_020126-151026.xlsx",
   "hojas": {
     "Tasca": {
-      "total": 1999,
-      "ok": 1840,
-      "revisar": 159,
-      "pct_ok": 92.0
+      "total": 2120,
+      "ok": 1944,
+      "revisar": 176,
+      "pct_ok": 91.7
     },
     "Comestibles": {
-      "total": 893,
-      "ok": 833,
-      "revisar": 60,
-      "pct_ok": 93.3
+      "total": 956,
+      "ok": 883,
+      "revisar": 73,
+      "pct_ok": 92.4
     }
   },
   "total": {
-    "total": 2892,
-    "ok": 2673,
-    "revisar": 219,
-    "pct_ok": 92.4
+    "total": 3076,
+    "ok": 2827,
+    "revisar": 249,
+    "pct_ok": 91.9
   },
   "revisar_detalle": [
     {
@@ -249,6 +249,13 @@
     {
       "hoja": "Comestibles",
       "fecha": "",
+      "concepto": "BENEFICIARIO PESCADOS DON FELIX",
+      "importe": -61.08,
+      "detalle": "Pago agrupado: #1045, #3201 (REF en concepto de pago)"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
       "concepto": "BENEFICIARIO BODEGAS BORBOTON",
       "importe": -432.42,
       "detalle": "REF 20566/26 coincide con #1033 BORBOTON FINCA Y BODEGA SLU, importe distinto (432.42 vs 433.42)"
@@ -364,13 +371,6 @@
       "concepto": "COMPRA TARJ 5540XXXXXXXX8017 EXPEMBAJADORES2-MADRID",
       "importe": -4.25,
       "detalle": "¿#637 ECOMS SUPERMARKET SL? (fuzzy 45%)"
-    },
-    {
-      "hoja": "Comestibles",
-      "fecha": "",
-      "concepto": "COMPRA TARJ 5540XXXXXXXX8017 TRUCCO COPIAS-MADRID",
-      "importe": -29.9,
-      "detalle": "Sin facturas en ventana de fecha para 10/04/2026"
     }
   ]
 }
