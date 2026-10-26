@@ -1,23 +1,43 @@
 {
-  "fecha_ejecucion": "2026-10-17T00:03:14",
-  "total_procesados": 2,
-  "exitosos": 1,
-  "requieren_revision": 1,
-  "errores": 0,
+  "fecha_ejecucion": "2026-10-23T11:17:45",
+  "total_procesados": 24,
+  "exitosos": 20,
+  "requieren_revision": 4,
+  "errores": 2,
   "proveedores_ok": [
-    "MARTINEZ RODRIGUEZ MARIA LINAREJOS"
+    "ANTHROPIC",
+    "CERES CERVEZA SL",
+    "GANIVETERIA MASAT S.L.",
+    "GRUPO DIA",
+    "LIDL SUPERMERCADOS SAU",
+    "MARTINEZ RODRIGUEZ MARIA LINAREJOS",
+    "PAGO ALTO LANDON SAT",
+    "PORVAZ VILAGARCIA SL",
+    "RUBIO NAVARRO PEDRO OSCAR",
+    "SABORES DE PATERNA SCA"
   ],
   "revision": [
+    "<rezumar@rezumar.com>",
+    "Carito Kanashiro <Carito.Kanashiro@tccglobal.com>",
+    "Cookiru <info@cookiru.com>",
     "Seguros PcComponentes <pcc@weecover.com>"
   ],
-  "errores_detalle": [],
+  "errores_detalle": [
+    "Factura nº 1/2026/2601014: total no extraído (ALERTA ROJA)",
+    "Tu pedido en Cookiru ya está completo: total no extraído (ALERTA ROJA)"
+  ],
   "enviados_a_revisar": {
-    "total": 1,
-    "NO_FACTURA": 1,
+    "total": 2,
+    "NO_FACTURA": 2,
     "FECHA_FUERA_DE_RANGO": 0,
     "PROVEEDOR_INVALIDO": 0
   },
   "albaranes": 0,
   "proformas": 0,
-  "proveedores_nuevos": []
+  "proveedores_nuevos": [
+    {
+      "cif": "B72564560",
+      "nombre": "GANIVETERIA MASAT S.L."
+    }
+  ]
 }
