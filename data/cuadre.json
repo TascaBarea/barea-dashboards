@@ -1,25 +1,25 @@
 {
-  "fecha_ejecucion": "2026-10-16T11:50:21",
-  "archivo": "Cuadre_020126-151026.xlsx",
+  "fecha_ejecucion": "2026-10-29T21:21:42",
+  "archivo": "Cuadre_020126-231026.xlsx",
   "hojas": {
     "Tasca": {
-      "total": 2120,
-      "ok": 1944,
-      "revisar": 176,
-      "pct_ok": 91.7
+      "total": 2175,
+      "ok": 1989,
+      "revisar": 186,
+      "pct_ok": 91.4
     },
     "Comestibles": {
-      "total": 956,
-      "ok": 883,
-      "revisar": 73,
-      "pct_ok": 92.4
+      "total": 990,
+      "ok": 913,
+      "revisar": 77,
+      "pct_ok": 92.2
     }
   },
   "total": {
-    "total": 3076,
-    "ok": 2827,
-    "revisar": 249,
-    "pct_ok": 91.9
+    "total": 3165,
+    "ok": 2902,
+    "revisar": 263,
+    "pct_ok": 91.7
   },
   "revisar_detalle": [
     {
@@ -27,7 +27,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1015 AQUARIUS AUYANTEPUY  0-MADRID",
       "importe": -12.1,
-      "detalle": "¿#ARR-482 ECOMS SUPERMARKET SL? (fuzzy 26%)"
+      "detalle": "Importe coincide con #ARR-482 (ECOMS SUPERMARKET SL), nombre no compatible"
     },
     {
       "hoja": "Tasca",
@@ -55,7 +55,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1015 VICTORINO MARTIN S.A-MADRID",
       "importe": -13.2,
-      "detalle": "¿#3102 ECOMS SUPERMARKET SL? (fuzzy 24%)"
+      "detalle": "Importe coincide con #3102 (ECOMS SUPERMARKET SL), nombre no compatible"
     },
     {
       "hoja": "Tasca",
@@ -83,7 +83,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1019 SUPERMARKET EDIKWEN J.D.S-MADRID",
       "importe": -4.48,
-      "detalle": "Sin facturas en ventana de fecha para 19/01/2026"
+      "detalle": "Importe coincide con #661 (ECOMS SUPERMARKET SL), #3039 (ECOMS SUPERMARKET SL), #3098 (ECOMS SUPERMA"
     },
     {
       "hoja": "Tasca",
@@ -97,14 +97,14 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1019 LICORES ANGULO-MADRID",
       "importe": -6.95,
-      "detalle": "¿#604 ECOMS SUPERMARKET SL? (fuzzy 26%)"
+      "detalle": "Importe coincide con #604 (ECOMS SUPERMARKET SL), #ARR-478 (ECOMS SUPERMARKET SL), nombre no compati"
     },
     {
       "hoja": "Tasca",
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1019 SUPERMARKET EDIKWEN J.D.S-MADRID",
       "importe": -3.18,
-      "detalle": "Sin facturas en ventana de fecha para 21/01/2026"
+      "detalle": "Importe coincide con #3030 (ECOMS SUPERMARKET SL), nombre no compatible"
     },
     {
       "hoja": "Tasca",
@@ -132,7 +132,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1015 VICTORINO MARTIN S.A-MADRID",
       "importe": -4.5,
-      "detalle": "¿#3T26-061 SOLO PINTURAS? (fuzzy 34%)"
+      "detalle": "Importe coincide con #661 (ECOMS SUPERMARKET SL), #3039 (ECOMS SUPERMARKET SL), #3T26-031 (SOLO PINT"
     },
     {
       "hoja": "Tasca",
@@ -167,7 +167,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1015 BM DUQUE DE ALBA-MADRID",
       "importe": -4.6,
-      "detalle": "¿#615 ECOMS SUPERMARKET SL? (fuzzy 55%)"
+      "detalle": "Importe coincide con #615 (ECOMS SUPERMARKET SL), #621 (ECOMS SUPERMARKET SL), #3101 (ECOMS SUPERMAR"
     },
     {
       "hoja": "Tasca",
@@ -181,7 +181,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1015 VICTORINO MARTIN S.A-MADRID",
       "importe": -5.7,
-      "detalle": "¿#3T26-016 ECOMS SUPERMARKET SL? (fuzzy 24%)"
+      "detalle": "Importe coincide con #3T26-015 (ECOMS SUPERMARKET SL), nombre no compatible"
     },
     {
       "hoja": "Tasca",
@@ -195,7 +195,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX1019 FRUTAS PLAZA LAVAPIES-MADRID",
       "importe": -4.59,
-      "detalle": "¿#3T26-065 NAN YEA? (fuzzy 29%)"
+      "detalle": "Importe coincide con #615 (ECOMS SUPERMARKET SL), #677 (ECOMS SUPERMARKET SL), #621 (ECOMS SUPERMARK"
     },
     {
       "hoja": "Comestibles",
@@ -237,7 +237,7 @@
       "fecha": "",
       "concepto": "BENEFICIARIO DE LA TRANSFERENCIA :      ISABEL MINDALLAS PINDADO",
       "importe": -285.0,
-      "detalle": "Importe 285.0 no encontrado"
+      "detalle": "Importe 285.0 no encontrado; sugerencia MIRALLAS PINDADO ISABEL 91 %"
     },
     {
       "hoja": "Comestibles",
@@ -272,7 +272,7 @@
       "fecha": "",
       "concepto": "BENEFICIARIO DE LA TRANSFERENCIA :      ISABEL MINDALLAS PINDADO",
       "importe": -285.0,
-      "detalle": "Importe 285.0 no encontrado"
+      "detalle": "Importe 285.0 no encontrado; sugerencia MIRALLAS PINDADO ISABEL 91 %"
     },
     {
       "hoja": "Comestibles",
@@ -286,7 +286,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX8017 VICTORINO MARTIN S.A-MADRID",
       "importe": -3.0,
-      "detalle": "¿#1T26-016 TIGER STORES? (fuzzy 29%)"
+      "detalle": "Importe coincide con #1T26-016 (TIGER STORES), #3182 (ECOMS SUPERMARKET SL), #4T26-038 (ECOMS SUPERM"
     },
     {
       "hoja": "Comestibles",
@@ -307,7 +307,7 @@
       "fecha": "",
       "concepto": "BENEFICIARIO SARA MONTERO",
       "importe": -120.0,
-      "detalle": "Importe 120.0 no encontrado"
+      "detalle": "Importe 120.0 no encontrado; sugerencia AGRICOLA DE MONTBRIO DEL CAMP SCCL 78 %"
     },
     {
       "hoja": "Comestibles",
@@ -363,14 +363,28 @@
       "fecha": "",
       "concepto": "BENEFICIARIO DE LA TRANSFERENCIA :      ISABEL MINDALLAS PINDADO",
       "importe": -285.0,
-      "detalle": "Importe 285.0 no encontrado"
+      "detalle": "Importe 285.0 no encontrado; sugerencia MIRALLAS PINDADO ISABEL 91 %"
     },
     {
       "hoja": "Comestibles",
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX8017 EXPEMBAJADORES2-MADRID",
       "importe": -4.25,
-      "detalle": "¿#637 ECOMS SUPERMARKET SL? (fuzzy 45%)"
+      "detalle": "Importe coincide con #637 (ECOMS SUPERMARKET SL), #3112 (ECOMS SUPERMARKET SL), nombre no compatible"
     }
-  ]
+  ],
+  "estado_pago": {
+    "PAGADO": 730,
+    "VENCIDA": 34,
+    "PARCIAL": 18,
+    "TARJETA": 218,
+    "EFECTIVO": 65,
+    "SIN_TOTAL": 28,
+    "NO_VERIFICABLE": 106,
+    "PENDIENTE": 18
+  },
+  "pagadas_nuevas": {
+    "Gestion Barea 1T26.xlsx": 7,
+    "Gestion Barea 2T26.xlsx": 17
+  }
 }
