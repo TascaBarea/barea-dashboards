@@ -1,41 +1,54 @@
 {
-  "fecha_ejecucion": "2026-10-30T10:27:14",
-  "total_procesados": 25,
-  "exitosos": 19,
-  "requieren_revision": 4,
-  "errores": 3,
+  "fecha_ejecucion": "2026-11-06T23:23:33",
+  "total_procesados": 1,
+  "correos": 1,
+  "pdfs": 1,
+  "archivadas_excel": {
+    "total": 1,
+    "con_alerta_roja": 0,
+    "con_revision": 0,
+    "archivos_alerta_roja": []
+  },
+  "enviados_revisar": 0,
+  "categorias": {
+    "exitosos": 1,
+    "albaranes": 0,
+    "proformas": 0,
+    "no_factura": 0,
+    "enviados_revisar": 0,
+    "duplicados": 0,
+    "pendientes_asignar": 0,
+    "revision": 0,
+    "errores": 0
+  },
+  "exitosos": 1,
+  "requieren_revision": 0,
+  "no_factura": 0,
+  "errores": 0,
   "proveedores_ok": [
-    "BERZAL HERMANOS SA",
-    "CERES CERVEZA SL",
-    "ECOFICUS SL",
-    "ECOMS SUPERMARKET SL",
-    "KINEMA S.COOP.MAD.",
-    "LA LLILDIRIA SL",
-    "ODOO",
-    "PABLO RUIZ HERRERA",
-    "PESCADOS DON FELIX SL",
-    "QUESOS NAVAS SL",
-    "SANCHEZ MARTIN JOSE LUIS",
-    "SERRIN NO CHAN SL",
-    "SOM ENERGIA SCCL"
+    "CERES CERVEZA SL"
   ],
-  "revision": [
-    "<prm@bodegalosgredales.es>",
-    "ACEITES DE ESPECIALIDAD JALEO"
-  ],
-  "errores_detalle": [
-    "Factura de tu pedido #2161 · Jaleo: total no extraído (ALERTA ROJA)",
-    "Proforma pedido Jaleo #2161 · Comestibles Barea: total no extraído (ALERTA ROJA)",
-    "Proforma pedido Jaleo #2161 · Comestibles Barea: total no extraído (ALERTA ROJA)"
-  ],
+  "revision": [],
+  "errores_detalle": [],
   "enviados_a_revisar": {
     "total": 0,
     "NO_FACTURA": 0,
     "FECHA_FUERA_DE_RANGO": 0,
     "PROVEEDOR_INVALIDO": 0
   },
-  "albaranes": 3,
+  "albaranes": 0,
   "proformas": 0,
+  "proformas_pagadas_sin_factura": [
+    {
+      "proveedor": "ACEITES DE ESPECIALIDAD JALEO",
+      "cif": "B75298836",
+      "ref": "#1807",
+      "pedido": "#1807",
+      "importe": 523.5,
+      "fecha": "27/04/2026",
+      "dias": 193
+    }
+  ],
   "proveedores_nuevos": [],
-  "propuestas_maestro": 4
+  "propuestas_maestro": 1
 }

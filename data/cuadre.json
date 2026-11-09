@@ -1,25 +1,25 @@
 {
-  "fecha_ejecucion": "2026-10-29T21:21:42",
-  "archivo": "Cuadre_020126-231026.xlsx",
+  "fecha_ejecucion": "2026-11-06T23:27:00",
+  "archivo": "Cuadre_020126-051126.xlsx",
   "hojas": {
     "Tasca": {
-      "total": 2175,
-      "ok": 1989,
-      "revisar": 186,
-      "pct_ok": 91.4
+      "total": 2284,
+      "ok": 2101,
+      "revisar": 183,
+      "pct_ok": 92.0
     },
     "Comestibles": {
-      "total": 990,
-      "ok": 913,
-      "revisar": 77,
-      "pct_ok": 92.2
+      "total": 1037,
+      "ok": 961,
+      "revisar": 76,
+      "pct_ok": 92.7
     }
   },
   "total": {
-    "total": 3165,
-    "ok": 2902,
-    "revisar": 263,
-    "pct_ok": 91.7
+    "total": 3321,
+    "ok": 3062,
+    "revisar": 259,
+    "pct_ok": 92.2
   },
   "revisar_detalle": [
     {
@@ -356,7 +356,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX8017 DIA 13908-MADRID",
       "importe": -2.49,
-      "detalle": "Importe 2.49 no encontrado"
+      "detalle": "Posible duplicado con #4T26-123"
     },
     {
       "hoja": "Comestibles",
@@ -374,17 +374,17 @@
     }
   ],
   "estado_pago": {
-    "PAGADO": 730,
-    "VENCIDA": 34,
+    "PAGADO": 765,
+    "VENCIDA": 40,
     "PARCIAL": 18,
-    "TARJETA": 218,
+    "TARJETA": 223,
     "EFECTIVO": 65,
-    "SIN_TOTAL": 28,
-    "NO_VERIFICABLE": 106,
-    "PENDIENTE": 18
+    "SIN_TOTAL": 27,
+    "NO_VERIFICABLE": 109,
+    "PENDIENTE": 33
   },
   "pagadas_nuevas": {
-    "Gestion Barea 1T26.xlsx": 7,
-    "Gestion Barea 2T26.xlsx": 17
+    "Facturas 2026.xlsx": 29,
+    "Gestion Barea 4T26.xlsx": 28
   }
 }
