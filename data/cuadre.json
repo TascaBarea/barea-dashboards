@@ -1,25 +1,25 @@
 {
-  "fecha_ejecucion": "2026-11-06T23:27:00",
-  "archivo": "Cuadre_020126-051126.xlsx",
+  "fecha_ejecucion": "2026-11-20T18:45:57",
+  "archivo": "Cuadre_020126-191126.xlsx",
   "hojas": {
     "Tasca": {
-      "total": 2284,
-      "ok": 2101,
-      "revisar": 183,
-      "pct_ok": 92.0
+      "total": 2387,
+      "ok": 2190,
+      "revisar": 197,
+      "pct_ok": 91.7
     },
     "Comestibles": {
-      "total": 1037,
-      "ok": 961,
-      "revisar": 76,
-      "pct_ok": 92.7
+      "total": 1092,
+      "ok": 1010,
+      "revisar": 82,
+      "pct_ok": 92.5
     }
   },
   "total": {
-    "total": 3321,
-    "ok": 3062,
-    "revisar": 259,
-    "pct_ok": 92.2
+    "total": 3479,
+    "ok": 3200,
+    "revisar": 279,
+    "pct_ok": 92.0
   },
   "revisar_detalle": [
     {
@@ -63,13 +63,6 @@
       "concepto": "BENEFICIARIO GRUPO TERRITORIO CAMPERO",
       "importe": -119.79,
       "detalle": "REF 138372 coincide con #4303 GRUPO TERRITORIO CAMPERO, S.L., importe distinto (119.79 vs 108.90)"
-    },
-    {
-      "hoja": "Tasca",
-      "fecha": "",
-      "concepto": "COMPRA TARJ 5540XXXXXXXX1019 MERCADONA GLORIETA DE PIR-MADRID",
-      "importe": -24.0,
-      "detalle": "Importe 24.0 no encontrado"
     },
     {
       "hoja": "Tasca",
@@ -198,11 +191,11 @@
       "detalle": "Importe coincide con #615 (ECOMS SUPERMARKET SL), #677 (ECOMS SUPERMARKET SL), #621 (ECOMS SUPERMARK"
     },
     {
-      "hoja": "Comestibles",
+      "hoja": "Tasca",
       "fecha": "",
-      "concepto": "COREFISH FACTORY SLU",
-      "importe": -1018.4,
-      "detalle": "Importe 1018.4 no encontrado"
+      "concepto": "BENEFICIARIO artesanos del mollete",
+      "importe": -190.4,
+      "detalle": "REF G 3564 coincide con #1015 ya usada"
     },
     {
       "hoja": "Comestibles",
@@ -286,7 +279,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX8017 VICTORINO MARTIN S.A-MADRID",
       "importe": -3.0,
-      "detalle": "Importe coincide con #1T26-016 (TIGER STORES), #3182 (ECOMS SUPERMARKET SL), #4T26-038 (ECOMS SUPERM"
+      "detalle": "Importe coincide con #1T26-016 (TIGER STORES), #3182 (ECOMS SUPERMARKET SL), #4T26-039 (ECOMS SUPERM"
     },
     {
       "hoja": "Comestibles",
@@ -356,7 +349,7 @@
       "fecha": "",
       "concepto": "COMPRA TARJ 5540XXXXXXXX8017 DIA 13908-MADRID",
       "importe": -2.49,
-      "detalle": "Posible duplicado con #4T26-123"
+      "detalle": "Posible duplicado con #4T26-128"
     },
     {
       "hoja": "Comestibles",
@@ -371,20 +364,86 @@
       "concepto": "COMPRA TARJ 5540XXXXXXXX8017 EXPEMBAJADORES2-MADRID",
       "importe": -4.25,
       "detalle": "Importe coincide con #637 (ECOMS SUPERMARKET SL), #3112 (ECOMS SUPERMARKET SL), nombre no compatible"
+    },
+    {
+      "hoja": "Comestibles",
+      "fecha": "",
+      "concepto": "COMPRA TARJ 5540XXXXXXXX8017 TRUCCO COPIAS-MADRID",
+      "importe": -29.9,
+      "detalle": "Sin facturas en ventana de fecha para 10/04/2026"
     }
   ],
   "estado_pago": {
-    "PAGADO": 765,
-    "VENCIDA": 40,
+    "PAGADO": 813,
+    "VENCIDA": 45,
     "PARCIAL": 18,
-    "TARJETA": 223,
+    "TARJETA": 239,
     "EFECTIVO": 65,
-    "SIN_TOTAL": 27,
-    "NO_VERIFICABLE": 109,
-    "PENDIENTE": 33
+    "SIN_TOTAL": 29,
+    "NO_VERIFICABLE": 106,
+    "PENDIENTE": 15
   },
   "pagadas_nuevas": {
-    "Facturas 2026.xlsx": 29,
-    "Gestion Barea 4T26.xlsx": 28
-  }
+    "Facturas 2026.xlsx": 10,
+    "Gestion Barea 4T26.xlsx": 9
+  },
+  "avisos_retencion": [
+    "RETENCION sin marca: 1024 DEBORA GARCIA TOLEDANO (43,50 €): el MAESTRO dice retención del 1.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 1098 DEBORA GARCIA TOLEDANO (87,00 €): el MAESTRO dice retención del 1.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 1105 ORTEGA ALONSO BENJAMIN (630,74 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 517 ORTEGA ALONSO BENJAMIN (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 516 JAIME FERNANDEZ MORENO (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 520 ORTEGA ALONSO BENJAMIN (303,49 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 2T26-002 DEBORA GARCIA TOLEDANO (87,00 €): el MAESTRO dice retención del 1.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 533 ORTEGA ALONSO BENJAMIN (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 532 JAIME FERNANDEZ MORENO (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 554 ORTEGA ALONSO BENJAMIN (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 553 JAIME FERNANDEZ MORENO (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 557 ORTEGA ALONSO BENJAMIN (472,10 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 581 DEBORA GARCIA TOLEDANO (87,00 €): el MAESTRO dice retención del 1.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 2T26-016 ORTEGA ALONSO BENJAMIN (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 2T26-017 JAIME FERNANDEZ MORENO (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 2T26-018 ORTEGA ALONSO BENJAMIN (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 2T26-019 JAIME FERNANDEZ MORENO (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 2T26-020 ORTEGA ALONSO BENJAMIN (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 2T26-021 JAIME FERNANDEZ MORENO (612,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3146 EMMANUEL CARVAJAL TF OJO RETENCION (0,00 €): el MAESTRO dice retención del 15.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3172 DEBORA GARCIA TOLEDANO (130,50 €): el MAESTRO dice retención del 1.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3204 ORTEGA ALONSO BENJAMIN (664,75 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3206 JAIME FERNANDEZ MORENO (664,75 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3209 ORTEGA ALONSO BENJAMIN (664,75 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3215 ORTEGA ALONSO BENJAMIN (664,75 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3217 JAIME FERNANDEZ MORENO (664,75 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3224 DEBORA GARCIA TOLEDANO (87,00 €): el MAESTRO dice retención del 1.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 3254 JAIME FERNANDEZ MORENO (664,75 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 4185 ORTEGA ALONSO BENJAMIN (510,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 4186 FERNANDEZ MORENO JAIME (510,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 4195 ORTEGA ALONSO BENJAMIN (510,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 4196 FERNANDEZ MORENO JAIME (510,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 4201 ORTEGA ALONSO BENJAMIN (510,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET",
+    "RETENCION sin marca: 4202 FERNANDEZ MORENO JAIME (510,00 €): el MAESTRO dice retención del 19.0 % y la factura no lleva marca RET"
+  ],
+  "anticipos": [
+    {
+      "email_id": "1a1cf52781e350aa",
+      "mov": "C 1077",
+      "fecha": "2026-11-15",
+      "importe": 381.1,
+      "proveedor": "ACEITES GARCIA DE LA CRUZ SL",
+      "documento": "PROFORMA VN 26.000.910"
+    }
+  ],
+  "anticipos_sin_factura": [
+    {
+      "email_id": "19dbf2a69b3901ec",
+      "proveedor": "ACEITES DE ESPECIALIDAD JALEO",
+      "cif": "B75298836",
+      "documento": "PROFORMA",
+      "numero": "#1807",
+      "importe": 523.5,
+      "fecha_pago": "27/04/2026",
+      "mov": "C 428",
+      "dias": 207
+    }
+  ]
 }
